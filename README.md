@@ -43,3 +43,34 @@ Current support for fill-in-the-blank and translation exercises.
 **Assessment and Approval**
 
 A course is considered approved when the student passes all exercises in their lessons.
+
+
+
+
+
+## How to Run the Program
+
+To compile and run the program, follow these steps:
+
+1. Open a terminal in the root directory of the project.
+
+2. Run the following command to compile the program using `make`:
+
+   ```bash
+   make
+   ```
+
+   This should compile the source code and generate the `main` executable.
+
+3. Once the compilation is complete without errors, you can run the program with the following command:
+
+   ```bash
+   ./main
+   ```
+
+  
+
+
+
+![Program Interface](docs/view.png)
+
