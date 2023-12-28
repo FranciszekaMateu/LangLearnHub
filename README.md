@@ -72,5 +72,5 @@ To compile and run the program, follow these steps:
 
 
 
-![Program Interface](docs/view.png)
+
 
